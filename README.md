@@ -1,2 +1,5 @@
 # LearnCwithMe
-C, a versatile language, isn’t confined to any domain. It’s rich in operators and has modern control flow. Not a ‘high level’ or ‘large’ language, its broad applicability makes it practical. Originated in UNIX on DEC PDP-11, it was designed by D. Ritchie. The C compiler, UNIX OS, and all UNIX apps are written in C.
+
+C is a versatile programming language that is not confined to any specific application domain. It offers a rich set of operators, modern control flow, and data structures, and it excels in expressing concepts in a clear and concise manner. While it’s not considered a “very high level” or “large” language, its lack of limitations and broad applicability often make it a more practical and efficient choice for a variety of tasks compared to other languages that are perceived to be more powerful.
+
+The roots of C can be traced back to the UNIX operating system on the DEC PDP-11, where it was designed and implemented by Dennis Ritchie. The C compiler, the operating system itself, and virtually all UNIX application programs (including all the software utilized to compile this book) are written in C. This attests to the language’s flexibility and efficiency.
